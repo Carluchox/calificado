@@ -16,8 +16,8 @@ if (nota < 3) {
     document.write(nombre + ", tu calificación es: Bien");
 } else if (nota >=7 && nota < 9) {
     console.log(nombre + ", tu calificación es: Notable");
-    document.write(nombre + ", tu calificación es: Notable");
-} else if (nota >=9 && nota <= 10) {
+    document.write(nombre + ", https://carluchox.github.io/calificado/ calificación es: Notable");
+} else if (nota >=9) {
     console.log(nombre + ", tu calificación es: Sobresaliente");
     document.write(nombre + ", tu calificación es: Sobresaliente");
 }
